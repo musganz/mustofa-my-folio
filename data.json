@@ -1,0 +1,22 @@
+{
+  "project": [
+    {
+     
+    }
+  ],
+  "tech": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "NodeJS",
+    "ReactJS",
+    "SASS",
+    "Typescript"
+  ],
+  "skill": [
+    { "name":"Frontend Developer", "skill":"Advanced" },
+    { "name":"Backend Developer", "skill":"Basic" },
+    { "name":"Graphic Designer", "skill":"Basic" },
+    { "name":"UI/UX Design", "skill":"Basic" }
+  ]
+}
